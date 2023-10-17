@@ -1,0 +1,5 @@
+definim a si b
+citim a,b
+definim c
+c <- a*a-b*b
+scriem c

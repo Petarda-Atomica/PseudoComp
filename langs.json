@@ -1,0 +1,3 @@
+[
+    {"name": "C", "extension":"C", "compile": ["g++", "{{ INPUT }}", "-o", "{{ OUTPUT }}"]}
+]
