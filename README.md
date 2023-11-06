@@ -6,4 +6,5 @@ A compiler for pseudo-code, using LLMs and GCC
 <ul>
   <li>Python</li>
   <li><a href="https://github.com/xtekky/gpt4free">GPT4FREE</a></li>
+  <li>A C compiler(prefferably gcc)</li>
 </ul>
